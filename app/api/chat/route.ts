@@ -1,7 +1,7 @@
 import { NextResponse } from "next/server";
 import { Pinecone } from "@pinecone-database/pinecone";
 import OpenAI from "openai";
-import { start } from "repl";
+import { pc, index } from "@/config/pinecone-config";
 
 const system_prompt = `
 You are an intelligent and helpful Rate My Professor assistant. Your job is to assist students by providing them with recommendations for professors based on their specific queries. You will analyze the student's query and return the top 3 professor recommendations that best match their needs.
@@ -47,12 +47,6 @@ Your goal is to help students make informed decisions by providing them with acc
 export const POST = async (req: Request) => {
     const body = await req.json();
     const query = body.query;
-    const pc = new Pinecone({
-        apiKey: process.env.PINECONE_API_KEY!,
-    })
-
-    const index = pc.index("rag").namespace("ns1")
-
     const openapi = new OpenAI();
 
     const text = query[query.length - 1].content;
