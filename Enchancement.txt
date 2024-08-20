@@ -1,0 +1,8 @@
+0. !!!IMPORTANT!!!: implement web scraping to get the data from the website and update the database
+
+Next Steps:
+1. Integrate with database (Mongodb, Firebase)
+2. Create a user interface for the user to submit the rating and review
+3. update the data to contain university name, course name, rating, review, and timestamp
+4. Feed the data to Pinecone database
+5. update the current ui
