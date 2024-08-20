@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Susan Blake",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Dr. Blake is an amazing professor! She explains complex topics very clearly and is always available for help."
+      },
+      {
+        "professor": "Prof. James Miller",
+        "subject": "Mathematics",
+        "stars": 4,
+        "review": "Great teacher with a lot of knowledge, but sometimes the lectures move too quickly."
+      },
+      {
+        "professor": "Dr. Emily Johnson",
+        "subject": "Psychology",
+        "stars": 3,
+        "review": "Dr. Johnson is knowledgeable, but her lectures can be a bit dry. The exams are challenging but fair."
+      },
+      {
+        "professor": "Prof. Robert Lee",
+        "subject": "History",
+        "stars": 4,
+        "review": "Prof. Lee makes history come alive. His classes are engaging, but the reading load is heavy."
+      },
+      {
+        "professor": "Dr. Karen Smith",
+        "subject": "Biology",
+        "stars": 2,
+        "review": "The material is interesting, but Dr. Smith's lectures are hard to follow and she rarely answers emails."
+      },
+      {
+        "professor": "Prof. Mark Davis",
+        "subject": "Physics",
+        "stars": 5,
+        "review": "Prof. Davis is one of the best. He makes physics understandable and fun. Highly recommended!"
+      },
+      {
+        "professor": "Dr. Linda Brown",
+        "subject": "Chemistry",
+        "stars": 4,
+        "review": "Dr. Brown is very knowledgeable, but her exams are tough. You need to study hard to do well."
+      },
+      {
+        "professor": "Prof. Michael Harris",
+        "subject": "Philosophy",
+        "stars": 3,
+        "review": "Interesting discussions, but the grading is harsh. Make sure to participate in class."
+      },
+      {
+        "professor": "Dr. Sarah Wilson",
+        "subject": "Economics",
+        "stars": 5,
+        "review": "Dr. Wilson is fantastic! Her classes are well-structured and she provides great real-world examples."
+      },
+      {
+        "professor": "Prof. David Clark",
+        "subject": "Sociology",
+        "stars": 4,
+        "review": "Prof. Clark is passionate about the subject. The class is interesting, but there's a lot of writing involved."
+      },
+      {
+        "professor": "Dr. Jessica Taylor",
+        "subject": "Literature",
+        "stars": 5,
+        "review": "Dr. Taylor's classes are a delight. She's very approachable and the reading list is excellent."
+      },
+      {
+        "professor": "Prof. Richard White",
+        "subject": "Political Science",
+        "stars": 3,
+        "review": "The class was okay, but I wish Prof. White was more engaging. The material can be dry at times."
+      },
+      {
+        "professor": "Dr. William Thompson",
+        "subject": "Engineering",
+        "stars": 4,
+        "review": "Dr. Thompson knows his stuff, but the assignments are tough. Be prepared to put in the work."
+      },
+      {
+        "professor": "Prof. John Martinez",
+        "subject": "Environmental Science",
+        "stars": 5,
+        "review": "Prof. Martinez is incredibly inspiring. His passion for the environment is contagious."
+      },
+      {
+        "professor": "Dr. Patricia Anderson",
+        "subject": "Art History",
+        "stars": 2,
+        "review": "The subject is interesting, but Dr. Anderson's lectures are monotonous. It's hard to stay awake."
+      },
+      {
+        "professor": "Prof. Thomas Robinson",
+        "subject": "Law",
+        "stars": 4,
+        "review": "Prof. Robinson is tough but fair. His classes are challenging, but you learn a lot."
+      },
+      {
+        "professor": "Dr. Elizabeth King",
+        "subject": "Music",
+        "stars": 5,
+        "review": "Dr. King is wonderful! Her enthusiasm for music is infectious, and the class is a joy."
+      },
+      {
+        "professor": "Prof. Brian Lewis",
+        "subject": "Theater",
+        "stars": 3,
+        "review": "The class was okay, but I expected more hands-on experience. Prof. Lewis is knowledgeable, though."
+      },
+      {
+        "professor": "Dr. Jennifer Hall",
+        "subject": "Anthropology",
+        "stars": 4,
+        "review": "Dr. Hall is very engaging and makes the material interesting. The exams are fair but require a lot of study."
+      },
+      {
+        "professor": "Prof. Kevin Walker",
+        "subject": "Statistics",
+        "stars": 2,
+        "review": "Statistics is tough, and Prof. Walker doesn't do much to make it easier. The lectures are confusing."
+      }
+    ]
+  }
+  
